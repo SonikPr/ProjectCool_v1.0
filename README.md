@@ -1,4 +1,4 @@
-# ProjectCool_v1.0
+# ProjectCool_v2.0 (Old vers - 1.0 / 1.1)
 Standalone add-on for any personal computer, which allows you to control 3-pin (4-pin in future) case and CPU fans autonomously or via desktop monitoring app
 
 This system is an ATMega328p-based product, which allows you to control any 3-pin and even 4-pin case fans and any of ARGB devices, depending on the temperatures inside case and tweak all the settings through the desktop app
