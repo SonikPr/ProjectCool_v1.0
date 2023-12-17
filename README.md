@@ -5,8 +5,8 @@ This system is an ATMega328p-based product, which allows you to control any 3-pi
 
 UPDATE 12/17/2023
 
-Newest version - ProjectCool V2
-Does not have a backward-compatibility with V1 or V1.1 versions.
+The newest version - ProjectCool V2
+Does not have a backward compatibility with V1 or V1.1 versions.
 
 Features:
 Double-channel (3+3) separate control for 4-pin PWM fans
@@ -15,6 +15,8 @@ Two hardware tachometers for each fan channel
 Single Temp/Humidity sensor
 
 
-Here you can find latest system firmwares with latest fixes. For desktop app, please visit here (https://github.com/SonikPr/ProjectCool_Edgerunners_edition_2.2) for actual supported version or here (https://github.com/SonikPr/ProjectCool_NT) for version under development.
+Actual supported desktop version app located here: https://github.com/SonikPr/ProjectCool-Edgerunners-v5.0
+
+Here you can find prevoius system firmware with latest fixes. For a desktop app, please visit here (https://github.com/SonikPr/ProjectCool_Edgerunners_edition_2.2) for actual supported version or here (https://github.com/SonikPr/ProjectCool_NT) for the version under development.
 NOTE UNDER DEVELOPMENT doesent work yet, because it applies different data gathering methods and packet xyntax, so, dont think that it will work. 
 
